@@ -1,4 +1,4 @@
-os:  # Требуемая система
+os: Visual Studio 2015 # Требуемая система
 
 build_script: # Инструкции для сборки
   - cmd: cmake -Hformatter_lib/ -Bformatter_lib/_build
